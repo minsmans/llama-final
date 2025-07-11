@@ -1,0 +1,17 @@
+lora_qwen_output/
+deepseek_lora_output/
+finetuned_model/
+finetuned_model_lora/
+finetuned_model_merged/
+finetuned_model_v1/
+finetuned_model_merged_v1/
+
+finetuned_model_v2/
+finetuned_model_lora_v2/
+finetuned_rag_lora/
+finetune_new/
+finetuned_deepseek_lora/
+1.5/llama_lora_output_SAMPLE/
+wandb/
+llama_lora_output_SAMPLE/
+wandb/

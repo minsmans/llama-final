@@ -1,0 +1,225 @@
+Inference Output:
+ <disaster_analysis>:
+The flash flood event, driven by 250 mm of rain in 12 hours, has triggered severe flooding in Central Texas, submerging low-lying areas beneath 1.5 meters of water. The stalled cold front continues to drown out the region, with 95% precipitation probability driving down the riverbanks and stalled vehicles across the plains. Emergency crews are battling to contain the floods, but their efforts are hampered by the lack of water and power in low-lying areas. The floodwaters have reached critical thresholds, including critical roads like I-35, which are closures, and the loss of power is widespread across the plains.
+
+<event_summary>
+The region of Central Texas experienced a flash flood triggered by 250 mm of rain in 12 hours, with water depths of 1.5 meters in low-lying areas. The floods have flooded homes, roads including I-35, and power lines, affecting 200,000 residents and critical infrastructure. Emergency crews are battling to contain the floods as they subside over time.
+
+<detailed_analysis>
+This flood is a catastrophic event, exceeding the 90-year recurrence in a Texas flood season, with 95% rain probability trapping water on the Texas Riverbanks. The low depth of floods (1.5 meters) and rapid depletion of water sources are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, including schools and hospitals, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 residents. The event will likely last 3-5 days, with peak flooding in Austin, Texas.
+
+<impacts>
+- **Hydrography**: A 250 mm rainfall has overwhelmed Texas' drainage, with runoff exceeding capacity.
+- **Physical Impacts**: Homes in low-lying areas are flooded up to 1.5 meters, with I-35 and other roads at risk of collapse or collapse.
+- **Human Impacts**: 50,000 residents are without power and gas, affecting 100,000 households. Many residents without homes are displaced.
+
+<mitigation_strategies>
+- Deploy additional pumps and boats to reach low-lying areas and treat water from rivers.
+- Install flood barriers on the Texas River to hold off downstream drainage.
+- Provide power restoration kits to fix outages and restore power to homes.
+- Deploy emergency shelters to shelter vulnerable groups.
+
+<recommendations>
+- Residents in low-lying areas should take early leave, move to higher ground, and fill drains of homes with dry soil or gravel to prevent collapses.
+- Emergency crews must prioritize accessing schools and hospitals first, and set up temporary shelters for displaced residents.
+- Stockpile water supply kits with water, food, and batteries, and use mobile units to reach remote areas without vehicles.
+- Monitor real-time flood warnings via radio or mobile apps to stay informed about flood progress and potential shelters.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.
+</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 residents. The event will likely last 3-5 days, with peak flooding in Austin, Texas.
+
+<impacts>
+- **Hydrography**: A 250 mm rainfall has overwhelmed Texas' drainage, with runoff exceeding capacity.
+- **Physical Impacts**: Homes in low-lying areas are flooded up to 1.5 meters, with I-35 and other roads at risk of collapse or collapse.
+- **Human Impacts**: 50,000 residents are without power and gas, affecting 100,000 households. Many residents without homes are displaced.
+
+<mitigation_strategies>
+- Deploy additional pumps and boats to reach low-lying areas and treat water from rivers.
+- Install flood barriers on the Texas River to hold back downstream drainage.
+- Provide power restoration kits to fix outages and restore power to homes.
+- Deploy emergency shelters to shelter vulnerable groups.
+- Residents in low-lying areas should take early leave, move to higher ground, and fill drains of homes with dry soil or gravel to prevent collapses.
+- Monitor real-time flood warnings via radio or mobile apps to stay informed about flood progress and potential shelters.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.
+</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 residents. The event will likely last 3-5 days, with peak flooding in Austin, Texas.
+
+<impacts>
+- **Hydrography**: A 250 mm rainfall has overwhelmed Texas' drainage, with runoff exceeding capacity.
+- **Physical Impacts**: Homes in low-lying areas are flooded up to 1.5 meters, with I-35 and other roads at risk of collapse or collapse.
+- **Human Impacts**: 50,000 residents are without power and gas, affecting 100,000 households. Many residents without homes are displaced.
+
+<mitigation_strategies>
+- Deploy additional pumps and boats to reach low-lying areas and treat water from rivers.
+- Install flood barriers on the Texas River to hold back downstream drainage.
+- Provide power restoration kits to fix outages and restore power to homes.
+- Deploy emergency shelters to shelter vulnerable groups.
+- Residents in low-lying areas should take early leave, move to higher ground, and fill drains of homes with dry soil or gravel to prevent collapses.
+- Monitor real-time flood warnings via radio or mobile apps to stay informed about flood progress and potential shelters.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.
+</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 residents. The event will likely last 3-5 days, with peak flooding in Austin, Texas.
+
+<impacts>
+- **Hydrography**: A 250 mm rainfall has overwhelmed Texas' drainage, with runoff exceeding capacity.
+- **Physical Impacts**: Homes in low-lying areas are flooded up to 1.5 meters, with I-35 and other roads at risk of collapse or collapse.
+- **Human Impacts**: 50,000 residents are without power and gas, affecting 100,000 households. Many residents without homes are displaced.
+
+<mitigation_strategies>
+- Deploy additional pumps and boats to reach low-lying areas and treat water from rivers.
+- Install flood barriers on the Texas River to hold back downstream drainage.
+- Provide power restoration kits to fix outages and restore power to homes.
+- Deploy emergency shelters to shelter vulnerable groups.
+- Residents in low-lying areas should take early leave, move to higher ground, and fill drains of homes with dry soil or gravel to prevent collapses.
+- Monitor real-time flood warnings via radio or mobile apps to stay informed about flood progress and potential shelters.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.
+</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 residents. The event will likely last 3-5 days, with peak flooding in Austin, Texas.
+
+<impacts>
+- **Hydrography**: A 250 mm rainfall has overwhelmed Texas' drainage, with runoff exceeding capacity.
+- **Physical Impacts**: Homes in low-lying areas are flooded up to 1.5 meters, with I-35 and other roads at risk of collapse or collapse.
+- **Human Impacts**: 50,000 residents are without power and gas, affecting 100,000 households. Many residents without homes are displaced.
+
+<mitigation_strategies>
+- Deploy additional pumps and boats to reach low-lying areas and treat water from rivers.
+- Install flood barriers on the Texas River to hold back downstream drainage.
+- Provide power restoration kits to fix outages and restore power to homes.
+- Deploy emergency shelters to shelter vulnerable groups.
+- Residents in low-lying areas should take early leave, move to higher ground, and fill drains of homes with dry soil or gravel to prevent collapses.
+- Monitor real-time flood warnings via radio or mobile apps to stay informed about flood progress and potential shelters.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.
+</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 residents. The event will likely last 3-5 days, with peak flooding in Austin, Texas.
+
+<impacts>
+- **Hydrography**: A 250 mm rainfall has overwhelmed Texas' drainage, with runoff exceeding capacity.
+- **Physical Impacts**: Homes in low-lying areas are flooded up to 1.5 meters, with I-35 and other roads at risk of collapse or collapse.
+- **Human Impacts**: 50,000 residents are without power and gas, affecting 100,000 households. Many residents without homes are displaced.
+
+<mitigation_strategies>
+- Deploy additional pumps and boats to reach low-lying areas and treat water from rivers.
+- Install flood barriers on the Texas River to hold back downstream drainage.
+- Provide power restoration kits to fix outages and restore power to homes.
+- Deploy emergency shelters to shelter vulnerable groups.
+- Residents in low-lying areas should take early leave, move to higher ground, and fill drains of homes with dry soil or gravel to prevent collapses.
+- Monitor real-time flood warnings via radio or mobile apps to stay informed about flood progress and potential shelters.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.
+</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 residents. The event will likely last 3-5 days, with peak flooding in Austin, Texas.
+
+<impacts>
+- **Hydrography**: A 250 mm rainfall has overwhelmed Texas' drainage, with runoff exceeding capacity.
+- **Physical Impacts**: Homes in low-lying areas are flooded up to 1.5 meters, with I-35 and other roads at risk of collapse or collapse.
+- **Human Impacts**: 50,000 residents are without power and gas, affecting 100,000 households. Many residents without homes are displaced.
+
+<mitigation_strategies>
+- Deploy additional pumps and boats to reach low-lying areas and treat water from rivers.
+- Install flood barriers on the Texas River to hold back downstream drainage.
+- Provide power restoration kits to fix outages and restore power to homes.
+- Deploy emergency shelters to shelter vulnerable groups.
+- Residents in low-lying areas should take early leave, move to higher ground, and fill drains of homes with dry soil or gravel to prevent collapses.
+- Monitor real-time flood warnings via radio or mobile apps to stay informed about flood progress and potential shelters.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 residents. The event will likely last 3-5 days, with peak flooding in Austin, Texas.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 resid- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power station- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.</event_summary>
+- Post-flood cleanup should involve cleaning homes of flooded areas, repairing drainage systems, and distributing aid to families displaced.
+</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.</disaster_analysis>
+<event_summary>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.</event_summary>
+<detailed_analysis>
+Central Texas experienced a flash flood with 250 mm of rain in 12 hours, flooding homes, I-35, and power lines in low-lying areas. Emergency crews are battling to contain the floods, but water and power are scarce, with more rain expected over the next month.</event_summary>
+<detailed_analysis>
+</event_summary>
+<detailed_analysis>
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+This flood has overwhelmed Central Texas' drainage with 250 mm of rain, submerging low-lying areas beneath 1.5 meters of water. The low depth of floods and rapid rainwater depletion are overwhelming the region's drainage, with critical roads and power stations at the end of their lifespans. Emergency crews are battling to reach critical areas, but the lack of water and power is slowing down the process.
+
+<predictions>
+Floodwaters will grow to 2 meters by the following month, with more rain accumulating over the next 72 hours, threatening downstream communities. The floods will continue to degrade power supplies in the plains, with outages potentially affecting 50,000 residents. The event will likely last 3-5 days, with peak flooding in Austin, Texas.

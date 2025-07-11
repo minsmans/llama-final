@@ -1,0 +1,20 @@
+<disaster_analysis>
+[Missing content due to generation constraints]
+
+<event_summary>
+[Missing content due to generation constraints]
+
+<detailed_analysis>
+[Missing content due to generation constraints]
+
+<predictions>
+[Missing content due to generation constraints]
+
+<impacts>
+[Missing content due to generation constraints]
+
+<mitigation_strategies>
+[Missing content due to generation constraints]
+
+<recommendations>
+[Missing content due to generation constraints]

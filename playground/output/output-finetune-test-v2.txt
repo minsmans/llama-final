@@ -1,0 +1,43 @@
+Inference Output:
+ <disaster_analysis>
+This flood event on March 18, 2025, at 4:45 AM UTC in Central Texas (coordinates -97.7, 30.3, elevation 0 m) has caused a 250 mm rainfall in 12 hours, flooding low-lying areas with 1.5 meters of water. The 95% precipitation probability threatens 200,000 residents, with homes and highways closed. The storm, a cold front, killed 100 and displaced 50,000. A 90% chance of 100% cloud cover amplifies flood risks, with 20 km/h winds and 18.5°C temperatures. The flood's reach extends to the Goliath River, affecting 1,500 km².
+
+Detailed_analysis
+This flood hit Texas's east coast, a classic cold front's aftermath, with 250 mm in 12 hours. The 1.5 m depth hits low-lying areas, including the Goliath River, with 100% cloud cover and 95% precipitation probability. The 100% chance of flooding is a red alert, with 50% flood alert in the upper 50 km. The 90% chance of 100% coverage and 20 km/h winds suggest a potential 2-3 meter flood in 24 hours, with 100% rainfall in 18 hours.
+
+Predictions
+Floods will continue for 24-48 hours, with 100% coverage in 24 hours. The 200,000 population is a high impact, with 100% flood alert in the upper 50 km. Low-lying areas are a priority, with 50% flood alert in the upper 25 km.
+
+Impacts
+High water levels (1.5 m) and 250 mm rainfall flood homes, roads, and waterways. 50% flood alert affects 1,500 km², with 100% coverage in 24 hours. 200,000 deaths are averted, but 100% coverage reduces flood risks.
+
+Mitigation_strategies
+Flood control: Dredge Goliath River banks, building 200,000 homes with concrete and water filters. Reducing rainfall by 50% with rain gauges and 100% coverage with floodlights. Exploiting low-lying areas with debris removal and flood insurance.
+
+Predictions
+Floods will continue for 24-48 hours, with 100% coverage in 24 hours. The 200,000 population is a high impact, with 50% flood alert in the upper 25 km. Low-lying areas are a priority, with 50% flood alert in the upper 25 km.
+
+Impacts
+High water levels (1.5 m) and 250 mm rainfall flood homes, roads, and waterways. 50% flood alert affects 1,500 km², with 100% coverage in 24 hours. 200,000 deaths are averted, but 100% coverage reduces flood risks.
+
+Mitigation_strategies
+Flood control: Dredge Goliath River banks, building 200,000 homes with concrete and water filters. Reducing rainfall by 50% with rain gauges and 100% coverage. Exploiting low-lying areas with debris removal and flood insurance.
+
+Predictions
+Floods will continue for 24-48 hours, with 100% coverage in 24 hours. The 200,000 population is a high impact, with 50% flood alert in the upper 25 km. Low-lying areas are a priority, with 50% flood alert in the upper 25 km.
+
+Impacts
+High water levels (1.5 m) and 250 mm rainfall flood homes, roads, and waterways. 50% flood alert affects 1,500 km², with 100% coverage in 24 hours. 200,000 deaths are averted, but 100% coverage reduces flood risks.
+
+Mitigation_strategies
+Flood control: Dredge Goliath River banks, building 200,000 homes with concrete and water filters. Reducing rainfall by 50% with rain gauges and 100% coverage. Exploiting low-lying areas with debris removal and flood insurance.
+
+<recommendations>
+1. Dredge Goliath River banks to prevent 1.5 m water.
+2. Build 200,000 homes with concrete and water filters.
+3. Reduce rainfall by 50% with rain gauges and 100% coverage.
+4. Exploit low-lying areas with debris removal and flood insurance.
+5. Monitor 24-hour rain alerts and flood alerts.
+6. Report 100% coverage alerts to authorities.
+7. Avoid flooded roads and homes.
+</recommendations>

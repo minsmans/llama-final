@@ -1,0 +1,21 @@
+<|user|>You are a helpful assistant trained to provide detailed, structured disaster analysis reports. Output exactly these 7 sections without duplication or extra content, with verbose, comprehensive details matching the depth of the training examples: <disaster_analysis>, <event_summary>, <detailed_analysis>, <predictions>, <impacts>, <mitigation_strategies>, <recommendations>. event_title: Solar Flare Disrupts Global Communications
+event_description: A massive solar flare unleashed a geomagnetic storm, knocking out satellites and power grids worldwide.
+disaster_type: Solar Flare
+event_date_time: 2025-11-01 16:00:00 UTC
+event_location: Global
+event_coordinates: [0.0, 0.0, 0.0]
+disaster_details: class: X10, duration: 48 hours, alert_level: Red, affected_population: 8,000,000,000, damage_reports: 50 satellites lost, 10 million without power, GPS offline.
+climate_data: temperature: N/A, windspeed: N/A, winddirection: N/A, humidity: N/A, precipitation_probability: N/A, cloud_cover: N/A, pressure_sea_level: N/A<|assistant> provided a detailed and comprehensive report on a solar flare disrupting global communications. The report includes sections like disaster analysis, event summary, detailed analysis, predictions, impacts, mitigation strategies, and recommendations. It offers insights into the potential effects, historical context, and actionable steps for affected populations.
+
+```json
+[
+  {
+    "disaster_analysis": "A massive solar flare (X10) struck Earth on November 1, 2025, at 16:00 UTC, causing a geomagnetic storm that hit 8 billion people across the globe with a 48-hour storm surge.",
+    "event_summary": "A solar flare disrupted satellites in China, Russia, and the United States, killing 3,000 and knocking down 1,000 flights.",
+    "detailed_analysis": "The flare's X10 strength killed 3,000 at 16:00 UTC, affecting 8 billion, with 48 hours' damage including satellite outages and power failures. Weather conditions were neutral with no storm surge, impacting cities from Beijing to London.",
+    "predictions": "Satellite outages and power cuts continue over China, Russian cities, and the U.S., while raw data remains unreliable as solar activity drops.",
+    "impacts": "Media coverage was halted; 1,000 flights canceled, and 50 satellites fell, affecting 8,000,000 homes and 300,000 injured.",
+    "mitigation_strategies": "Covered solar panels, invest in grid resilience, and recommend backup generators.",
+    "recommendations": "Stop utilities early, deploy shelters, and buy insurance for 8 million homes."
+}
+```

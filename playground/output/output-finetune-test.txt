@@ -1,0 +1,27 @@
+Inference Output:
+<disaster_analysis>...</disaster_analysis>, and continue with <event_summary>, <detailed_analysis>, etc. Make sure each section is clear and concise.
+</think>
+
+<disaster_analysis>  
+This is a minor earthquake in Peru located 15 kilometers southeast of Lima. The earthquake has a magnitude of 4.8, which is classified as a Green alert, indicating moderate shaking potential. There is no significant tsunami risk, and the risk of damage is minimal. The event is scheduled to begin at 9:15:30 AM on March 20, 2025, UTC.  
+</disaster_analysis>  
+
+<event_summary>  
+The earthquake occurs near Lima, Peru, with slight shaking reported. The location is 15 kilometers southeast of Lima, and there are no significant impacts or damage reported. The event is scheduled to begin at 9:15:30 AM on March 20, 2025, UTC.  
+</event_summary>  
+
+<detailed_analysis>  
+The earthquake has a magnitude of 4.8, which is moderate in terms of seismic intensity. The earthquake is in the Central and Southwestern regions of Peru. There are no significant tsunamis risked due to the earthquake's location. The risk of damage is minimal, with no significant damage or tsunamis reported.  
+</detailed_analysis>  
+
+<predictions>  
+The earthquake will cause minimal shaking and damage in the immediate vicinity. There is no significant risk of tsunamis due to the earthquake's location. The earthquake will not affect the broader region of Peru.  
+</predictions>  
+
+<impacts>  
+The earthquake will cause minimal shaking and damage in the immediate area. The immediate impact will be minimal, with no significant damage or tsunamis reported. The earthquake will not affect the broader region of Peru.  
+</impacts>  
+
+<mitigation_strategies>  
+There is no immediate mitigation strategy needed due to the earthquake's minimal impact and no risk of tsunamis.  
+</mitigation_strategies><｜end▁of▁sentence｜>
