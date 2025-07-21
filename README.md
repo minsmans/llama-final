@@ -51,3 +51,4 @@ This project enhances `DeepSeek-R1-Distill-Qwen-1.5B` (1.5 billion parameters) u
      ```bash
      python test_lora.py
      python test_rag.py
+✅ 테스트 변경
